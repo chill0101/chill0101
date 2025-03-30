@@ -21,7 +21,7 @@
 ---
 
 ## 📫 **Let's Connect!**  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/lucasruiz0101) [![Email Badge](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:tucorreo@example.com)  
+![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square) ![Email Badge](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)  
 
 ---
 
