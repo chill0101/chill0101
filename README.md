@@ -22,7 +22,8 @@
 
 - **Backend Development:**  
   ![Node.js Icon](https://img.icons8.com/color/20/000000/nodejs.png) Node.js   
-  ![PHP Icon](https://img.icons8.com/color/20/000000/php.png) PHP  
+  ![PHP Icon](https://img.icons8.com/color/20/000000/php.png) PHP
+  ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java  (learning)
 
 - **Databases:**  
   ![SQL Icon](https://img.icons8.com/color/20/000000/sql.png) SQL   
@@ -30,7 +31,7 @@
 
 - **Other:**  
   ![Google Apps Script Icon](https://img.icons8.com/color/20/000000/google-logo.png) Google Apps Script  
-  ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java  
+
 
 ---
 
