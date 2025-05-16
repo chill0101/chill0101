@@ -40,13 +40,6 @@
 
 ---
 
-## 📈 **My GitHub Stats**  
-🚀 Always working hard to conquer new challenges!  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill0101&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chill0101&layout=compact&theme=radical)  
-
----
 
 ## 🌟 **More About Me**  
 - 🎓 Studying **Systems Analysis** at *Escuela Da Vinci*  
