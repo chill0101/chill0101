@@ -9,27 +9,27 @@
 ## 🛠️ **Tech Skills**  
 
 - **Web Development:**  
-  ![HTML Icon](https://img.icons8.com/color/20/000000/html-5.png) HTML |  
-  ![CSS Icon](https://img.icons8.com/color/20/000000/css3.png) CSS |  
-  ![JavaScript Icon](https://img.icons8.com/color/20/000000/javascript.png) JavaScript |  
-  ![React Icon](https://img.icons8.com/color/20/000000/react-native.png) React |  
-  ![TypeScript Icon](https://img.icons8.com/color/20/000000/typescript.png) TypeScript |  
-  ![Tailwind Icon](https://img.icons8.com/color/20/000000/tailwindcss.png) Tailwind CSS |  
+  ![HTML Icon](https://img.icons8.com/color/20/000000/html-5.png) HTML  
+  ![CSS Icon](https://img.icons8.com/color/20/000000/css3.png) CSS  
+  ![JavaScript Icon](https://img.icons8.com/color/20/000000/javascript.png) JavaScript 
+  ![React Icon](https://img.icons8.com/color/20/000000/react-native.png) React 
+  ![TypeScript Icon](https://img.icons8.com/color/20/000000/typescript.png) TypeScript   
+  ![Tailwind Icon](https://img.icons8.com/color/20/000000/tailwindcss.png) Tailwind CSS  
   ![Bootstrap Icon](https://img.icons8.com/color/20/000000/bootstrap.png) Bootstrap  
 
 - **Design Tools:**  
   ![Figma Icon](https://img.icons8.com/color/20/000000/figma.png) Figma  
 
 - **Backend Development:**  
-  ![Node.js Icon](https://img.icons8.com/color/20/000000/nodejs.png) Node.js |  
+  ![Node.js Icon](https://img.icons8.com/color/20/000000/nodejs.png) Node.js   
   ![PHP Icon](https://img.icons8.com/color/20/000000/php.png) PHP  
 
 - **Databases:**  
-  ![SQL Icon](https://img.icons8.com/color/20/000000/sql.png) SQL |  
+  ![SQL Icon](https://img.icons8.com/color/20/000000/sql.png) SQL   
   ![MongoDB Icon](https://img.icons8.com/color/20/000000/mongodb.png) MongoDB  
 
 - **Other:**  
-  ![Google Apps Script Icon](https://img.icons8.com/color/20/000000/google-logo.png) Google Apps Script |  
+  ![Google Apps Script Icon](https://img.icons8.com/color/20/000000/google-logo.png) Google Apps Script  
   ![Java Icon](https://img.icons8.com/color/20/000000/java-coffee-cup-logo.png) Java  
 
 ---
@@ -41,7 +41,7 @@
 ---
 
 
-## 🌟 **More About Me**  
+  ## 🌟 **More About Me (unnecesary but here they are 🤓) **  
 - 🎓 Studying **Systems Analysis** at *Escuela Da Vinci*  
 - 🎓 Bachelor's Degree in **Work Relations (HR)**  
 - 📺 Favorite Series: *Severance (Currently)*  
