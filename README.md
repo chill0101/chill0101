@@ -42,7 +42,7 @@
 ---
 
 
-  ## 🌟 **More About Me (unnecesary but here they are 🤓)**  
+  ## 🌟 **More About Me (unnecesary things but here they are 🤓)**  
 - 🎓 Studying **Systems Analysis** at *Escuela Da Vinci*  
 - 🎓 Bachelor's Degree in **Work Relations (HR)**  
 - 📺 Favorite Series: *Severance (Currently)*  
